@@ -1,0 +1,189 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f7fa;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    font-family: Montserrat;
+}
+.wrapper {
+    background: white; 
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar {
+    background: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.myphoto {
+    width: 370px;
+}
+
+.about-me {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.contacts {
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+.contacts-tittle {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.contacts-link {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #7c828c;
+    
+}
+
+.word-ce {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    color: #ffffff;
+    margin-right: 10px;
+}
+
+.techskills-tittle {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px; 
+    color: white;
+    margin-bottom: 20px;
+}
+
+.techSkillsContainer {
+    margin-top: 55px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.techSkillsLi{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ff6b08;
+    margin-left: 15px;
+}
+
+.TechSkilssText {
+    color: #c1c4c8;
+}
+
+.FrontEndTittle {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 23px;
+}
+
+.NameTittle {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+    }
+
+.TextUnderName {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #d3d4d3;
+    margin-top: 24px;
+}
+.aboutMyselfMain {
+margin-bottom: 65px;
+}
+
+.ProjectsTittle {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+   }
+
+.ProjectsContainer {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #919191;
+    margin-left: 15px;
+}
+
+.ProjectsLi {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: black;
+    
+}
+.Links {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #919191;
+}
+
+.projectsblok {
+    margin-bottom: 55px;
+}
+
+.Fedtittle {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.FreelanceTittle {
+    color: #ff6b08;
+}
+
+.workingtime1 {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #919191;
+}
+
+.word {
+    color: black;
+
+}
+
+.WorkingTime1Li {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #919191;
+    margin-left: 18px;
+}
+
+.professional-duties {
+    margin-top: 14px;
+    margin-bottom: 30px;
+}
